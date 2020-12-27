@@ -35,7 +35,7 @@ I had 13 zipcodes to model. I used a moving window function to remove trend and 
 
 The zipcode with the highest ROI was 11427 which had a forecasted return of 1438%.
 
-![Best Return](data/forecast)
+![](data/forecast.jpg)
 
 ### Future Work
 
