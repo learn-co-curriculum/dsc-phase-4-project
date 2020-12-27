@@ -9,6 +9,8 @@
 
 ### Data Used
 
+The data used was provided by Zillow, census.gov, and towncharts.com
+
 
 ### Building a Strategy
 
@@ -28,6 +30,12 @@ From there I narrowed the zipcodes by choosing property values that were between
 ### Modeling + Results
 
 I had 13 zipcodes to model. I used a moving window function to remove trend and a rolling mean equation to remove seasonality as needed. Then I modeled with SARIMAX and forecasted a confidence interval. The average ROI by percentage was taken so each zip code could be compared. This took a while! Finally, the zip codes with the highest return were determined!
+
+### Best Zipcode
+
+The zipcode with the highest ROI was 11427 which had a forecasted return of 1438%.
+
+![][forecast]
 
 ### Future Work
 
