@@ -39,4 +39,4 @@ The zipcode with the highest ROI was 11427 which had a forecasted return of 1438
 
 ### Future Work
 
-I used a range of 0 to 3 on the p, d, and q parameters for SARIMAX modeling. This range could be expanded to find better models. For the real estate investment company, they would need to constantly monitor and update their information so that they could continue to make sound real estate investments. Additionally, zip codes in other areas may be feasible to invest in for this company so other locations could be analyzed as well.
+I used a range of 0 to 3 on the p, d, and q parameters for SARIMAX modeling. This range could be expanded to find better models. For the real estate investment company, they would need to constantly monitor and update their information so that they could continue to make sound real estate investments. Additionally, zip codes in other areas may be feasible to invest in for this company so other locations could be analyzed as well. Additionally the roi formula was flawed by using numbers above and below zero so converting to all positive numbers would have been a better approach. 
