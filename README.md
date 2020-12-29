@@ -33,7 +33,12 @@ I had 13 zipcodes to model. I used a moving window function to remove trend and 
 
 ### Best Zipcode
 
-The zipcode with the highest ROI was 11427 which had a forecasted return of 1438%.
+11427: 1438% increase
+11428: 370% increase
+11426: 333% increase
+11385: 211% increase
+11004: 186% increase
+The ROI equation includes dividing by initial predicted average that varies by zip code which is why percentage may not be clearly represent the graph. The best graph was that of the 11428 zip code.
 
 ![](NOTEBOOKS/data/forecast)
 
