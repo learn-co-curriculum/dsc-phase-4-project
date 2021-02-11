@@ -129,7 +129,7 @@ There are two ways that you can source your own dataset: **_Problem First_** or 
 
 There are plenty of amazing places that you can get your data from. We recommend you start looking at data sets in some of these resources first:
 
-* [UCI Machine Learning Datasets Repository](https://archive.ics.uci.edu/ml/datasets.html)
+* [UCI Machine Learning Datasets Repository](https://archive.ics.uci.edu/ml/datasets.php)
 * [Kaggle Datasets](https://www.kaggle.com/datasets)
 * [Awesome Datasets Repo on Github](https://github.com/awesomedata/awesome-public-datasets)
 
