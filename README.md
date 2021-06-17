@@ -132,6 +132,7 @@ There are plenty of amazing places that you can get your data from. We recommend
 * [UCI Machine Learning Datasets Repository](https://archive.ics.uci.edu/ml/datasets.php)
 * [Kaggle Datasets](https://www.kaggle.com/datasets)
 * [Awesome Datasets Repo on Github](https://github.com/awesomedata/awesome-public-datasets)
+* [Tensorflow Datasets](https://www.tensorflow.org/datasets/catalog/overview)
 
 ## The Deliverables
 
